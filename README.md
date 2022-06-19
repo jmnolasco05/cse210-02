@@ -1,6 +1,6 @@
 # Hilo
 
-Do you think you can predict the future? Try it out by participating in our HiLo Game. You will have the opportunity to indicate whether the next card will be higher or lower than the current one. If you guess correctly you win 100 points, otherwise you lose 75. The game ends once you have reached 0 points or if you decide to stop playing.
+Do you think you can predict the future? Try it out by participating in our HiLo Game. You will have the opportunity to indicate whether the next card will be higher or lower than the current one. If you guess correctly you win 100 points, otherwise you lose 75 points. The game ends once you have reached 0 points or if you decide to stop playing.
 
 ## Project Structure
 
